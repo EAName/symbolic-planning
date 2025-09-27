@@ -1,0 +1,42 @@
+# PDDL-INSTRUCT Framework Requirements
+# Core dependencies for the symbolic planning framework
+
+# Standard library modules (included with Python)
+# - typing
+# - dataclasses
+# - enum
+# - re
+# - json
+# - time
+# - statistics
+# - os
+# - sys
+
+# Optional dependencies for enhanced functionality
+# (uncomment if needed)
+
+# For advanced PDDL parsing and validation
+# pddl-parser>=1.0.0
+
+# For machine learning and LLM integration
+# torch>=1.9.0
+# transformers>=4.20.0
+# datasets>=2.0.0
+
+# For data visualization and analysis
+# matplotlib>=3.5.0
+# seaborn>=0.11.0
+# pandas>=1.3.0
+
+# For testing
+# pytest>=6.0.0
+# pytest-cov>=2.12.0
+
+# For code quality
+# black>=21.0.0
+# flake8>=3.9.0
+# mypy>=0.910
+
+# For documentation
+# sphinx>=4.0.0
+# sphinx-rtd-theme>=0.5.0

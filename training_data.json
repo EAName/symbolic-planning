@@ -1,0 +1,14 @@
+[
+  {
+    "type": "goal_verification",
+    "instruction": "You are an expert in symbolic planning. Given a current state and a goal state, verify if the goal is satisfied.\n\nCurrent State: (clear a), (clear b), (clear c), (handempty), (ontable a), (ontable b), (ontable c)\nGoal State: (on b c), (ontable c)\n\nPlease reason step by step:\n1. Identify each goal condition\n2. Check if each goal condition is satisfied in the current state\n3. Determine overall goal satisfaction\n\nProvide your reasoning in the following format:\nStep 1: [Goal condition identification]\nStep 2: [Satisfaction checking]\nStep 3: [Overall assessment]\n\nGoal Satisfied: [Yes/No] - [Explanation]",
+    "reasoning_chain": null,
+    "expected_output": "No"
+  },
+  {
+    "type": "goal_verification",
+    "instruction": "You are an expert in symbolic planning. Given a current state and a goal state, verify if the goal is satisfied.\n\nCurrent State: (clear a), (clear b), (clear c), (handempty), (ontable a), (ontable b), (ontable c)\nGoal State: (on b c), (ontable c)\n\nPlease reason step by step:\n1. Identify each goal condition\n2. Check if each goal condition is satisfied in the current state\n3. Determine overall goal satisfaction\n\nProvide your reasoning in the following format:\nStep 1: [Goal condition identification]\nStep 2: [Satisfaction checking]\nStep 3: [Overall assessment]\n\nGoal Satisfied: [Yes/No] - [Explanation]",
+    "reasoning_chain": null,
+    "expected_output": "No"
+  }
+]
