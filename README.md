@@ -47,10 +47,10 @@ This framework implements the core concepts from the paper "Teaching LLMs to Pla
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/EAName/symbolic-planning
 cd symbolic-planning
 
-# Install dependencies (if any)
+# Install dependencies
 pip install -r requirements.txt
 ```
 
